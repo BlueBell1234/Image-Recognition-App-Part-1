@@ -1,0 +1,20 @@
+.Image_Recognizer_Body_Homework{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/002/421/789/non_2x/3d-realistic-abstract-pink-background-free-vector.jpg');
+    background-size: cover;
+}
+
+.person{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 900;
+}
+
+.text{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.Camera{
+    border: solid 1px white;
+    height: 300px;
+    width: 300px;
+}
